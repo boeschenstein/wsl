@@ -16,3 +16,11 @@ To access to wsl files, start use this: `\\wsl$`
 
 <https://scottdorman.blog/2019/02/27/running-jekyll-on-wsl/>
 todo: watch does now work
+
+## Backup/Restore
+
+<https://www.xda-developers.com/how-back-up-restore-wsl/>
+
+## WSL 2
+
+<https://github.com/boeschenstein/wsl2>
