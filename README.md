@@ -21,10 +21,6 @@ todo: watch does now work
 
 <https://www.xda-developers.com/how-back-up-restore-wsl/>
 
-## Backup/Restore
-
-<https://www.xda-developers.com/how-back-up-restore-wsl/>
-
 ## WSL 2
 
 <https://github.com/boeschenstein/wsl2>
